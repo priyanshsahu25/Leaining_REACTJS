@@ -24,6 +24,7 @@ function decrease(){
    <br></br>
    <br></br>
    <button onClick={decrease} > Decrease Counter </button>
+   <h1> Thanks you.....</h1>
    </>
 );
 
