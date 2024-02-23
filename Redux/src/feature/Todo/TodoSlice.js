@@ -15,6 +15,7 @@
         },
         removeTodo: (state,action)=>{
                 state.todos.filter((todo)=>(todo.id !== action.payload ))
+                //action
         }
     }
  }) 
