@@ -1,12 +1,18 @@
-import { useState } from 'react'
 import './App.css'
+import {Todos} from './Todos'
+import {AddTodo} from './AddTodo' 
+
+
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
-     <h1>Heloo World</h1>
+    <h1>Todosssssss</h1>
+    
+     <Todos/>
+     <AddTodo/>
     </>
   )
 }
