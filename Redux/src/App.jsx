@@ -1,6 +1,6 @@
 import './App.css'
 import {Todos} from './Todos'
-import {AddTodo} from './AddTodo' 
+import {AddTodo} from './addTodo' 
 
 
 
